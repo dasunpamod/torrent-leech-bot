@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/azamaulanaaa/botkaca",
-    "repository": "https://github.com/azamaulanaaa/botkaca",
+    "website": "https://github.com/Anjana-Ma/torrent-leech",
+    "repository": "https://github.com/Anjana-Ma/torrent-leech",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
